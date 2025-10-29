@@ -14,20 +14,7 @@ Here’s what’s included in the starter repos:
 - Jest config (including env variables)
 - Setting up a CI Pipeline using Github Actions
 
-Here's how to get started with the repo:
 
-## Cloning the repo
-
-Follow these steps to get started:
-
-1. Go to the [NestJS Starter Github repo](https://github.com/tomwray13/nestjs-starter)
-2. Press the Use this template button
-3. Follow the steps to create a new Github repo from the template
-4. Git clone your new repo onto your local machine. For example:
-
-```
-git clone git@github.com:tomwray13/url-shortener.git
-```
 
 Checkout into your new repo and follow the steps below:
 
